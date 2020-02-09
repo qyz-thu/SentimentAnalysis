@@ -34,4 +34,4 @@ The best performance of each model is listed below.
 
 </center>
   
-To be more specific, macro f1-score is adopted to calculate **F-score** and **r** stands correlation coefficient.
+To be more specific, macro f1-score is adopted to calculate **F-score** and **r** stands for correlation coefficient.
